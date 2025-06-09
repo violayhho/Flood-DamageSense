@@ -157,7 +157,7 @@ ${DATASET_ROOT}   # Dataset root directory, for example: {PROJECT_PATH}/Flood-Da
             ...
 ```
 
-***Multimodal Dataset (For baseline models)***
+***Unimodal Dataset (For baseline models)***
 
 Please make your dataset have the following folder/file structure:
 ```
