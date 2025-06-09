@@ -19,7 +19,7 @@
 </div>
 
 ## 🛎️Updates
-* **` June XXth, 2025`**: The model and scripts for training and inference have been uploaded.
+* **` June 09th, 2025`**: The model and scripts for training and inference have been uploaded.
 
 
 ## Overview
