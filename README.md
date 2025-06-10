@@ -11,7 +11,7 @@
 </div>
 
 
-[![arXiv paper](https://img.shields.io/badge/arXiv-paper-b31b1b.svg)]()
+[![arXiv paper](https://img.shields.io/badge/arXiv-paper-b31b1b.svg)](https://arxiv.org/pdf/2506.06667)
 
 [**Overview**](#overview) | [**Getting Started**](#getting-started) | [**Citation**](#citation)
 
@@ -294,7 +294,15 @@ python script/infer_SiamUnetBDA.py  --dataset UrbanSARFloods_Base \
 
 If this code contributes to your research, please kindly consider citing our paper and give this repo ⭐️ :)
 ```
-
+@misc{ho2025flooddamagesensemultimodalmambamultitask,
+      title={Flood-DamageSense: Multimodal Mamba with Multitask Learning for Building Flood Damage Assessment using SAR Remote Sensing Imagery}, 
+      author={Yu-Hsuan Ho and Ali Mostafavi},
+      year={2025},
+      eprint={2506.06667},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2506.06667}, 
+}
 ```
 ## Acknowledgments
 This project is based on ChangeMamba ([paper](https://ieeexplore.ieee.org/abstract/document/10565926), [code](https://github.com/ChenHongruixuan/ChangeMamba)) and VMamba ([paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/baa2da9ae4bfed26520bb61d259a3653-Abstract-Conference.html), [code](https://github.com/MzeroMiko/VMamba)). Thanks for their excellent works!!
