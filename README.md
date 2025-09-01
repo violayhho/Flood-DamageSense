@@ -11,7 +11,7 @@
 </div>
 
 
-[![arXiv paper](https://img.shields.io/badge/arXiv-paper-b31b1b.svg)](https://arxiv.org/pdf/2506.06667)
+[![CACAIE paper](https://img.shields.io/badge/CACAIE-paper-blue)](https://onlinelibrary.wiley.com/doi/10.1111/mice.70059) [![arXiv paper](https://img.shields.io/badge/arXiv-paper-b31b1b.svg)](https://arxiv.org/pdf/2506.06667)
 
 [**Overview**](#overview) | [**Getting Started**](#getting-started) | [**Citation**](#citation)
 
@@ -19,6 +19,7 @@
 </div>
 
 ## 🛎️Updates
+* **` August 31th, 2025`**: Flood-DamageSense has been accepted by [Computer-Aided Civil and Infrastructure Engineering](https://onlinelibrary.wiley.com/doi/10.1111/mice.70059)
 * **` June 09th, 2025`**: The model and scripts for training and inference have been uploaded.
 
 
