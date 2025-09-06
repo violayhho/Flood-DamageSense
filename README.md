@@ -245,28 +245,28 @@ To train baseline models, use the following commands for different configuration
 python script/train_MambaBDA.py  --dataset UrbanSARFloods_Base \
                                  --batch_size 16 \
                                  --crop_size 256 \
-                                 --max_epochs 2 \
+                                 --max_epochs 200 \
                                  --model_type STMambaBDA_Base
 ```
 ```bash
 python script/train_ChangeFormerBDA.py  --dataset UrbanSARFloods_Base \
                                  --batch_size 16 \
                                  --crop_size 256 \
-                                 --max_epochs 2 \
+                                 --max_epochs 200 \
                                  --model_type ChangeFormerV1BDA
 ```
 ```bash
 python script/train_BIT_BDA.py  --dataset UrbanSARFloods_Base \
                                  --batch_size 16 \
                                  --crop_size 256 \
-                                 --max_epochs 2 \
+                                 --max_epochs 200 \
                                  --model_type BIT18_BDA
 ```
 ```bash
 python script/train_SiamUnetBDA.py  --dataset UrbanSARFloods_Base \
                                  --batch_size 16 \
                                  --crop_size 256 \
-                                 --max_epochs 2 \
+                                 --max_epochs 200 \
                                  --model_type SeResNext50_Unet_BDA                                                                                                   
 ```
 To test the performance of baseline models and save the outputs:
