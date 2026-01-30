@@ -295,14 +295,15 @@ python script/infer_SiamUnetBDA.py  --dataset UrbanSARFloods_Base \
 
 If this code contributes to your research, please kindly consider citing our paper and give this repo ⭐️ :)
 ```
-@misc{ho2025flooddamagesensemultimodalmambamultitask,
-      title={Flood-DamageSense: Multimodal Mamba with Multitask Learning for Building Flood Damage Assessment using SAR Remote Sensing Imagery}, 
-      author={Yu-Hsuan Ho and Ali Mostafavi},
-      year={2025},
-      eprint={2506.06667},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2506.06667}, 
+@article{ho2025multimodal,
+  title={Multimodal Mamba with multitask learning for building flood damage assessment using synthetic aperture radar remote sensing imagery},
+  author={Ho, Yu-Hsuan and Mostafavi, Ali},
+  journal={Computer-Aided Civil and Infrastructure Engineering},
+  volume={40},
+  number={26},
+  pages={4401--4424},
+  year={2025},
+  publisher={Wiley Online Library}
 }
 ```
 ## Acknowledgments
